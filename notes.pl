@@ -7,7 +7,7 @@ my @notes = ( 'C', 'C#', 'D', 'Eb', 'E', 'F', 'F#', 'G', 'Ab', 'A', 'Bb', 'B' );
 print "\na random note:\n";
 randomNote();
 
-my $count = 14;
+my $count = 10;
 
 print "\n$count random notes:\n";
 randomNotes($count);
